@@ -15,7 +15,7 @@ bun start
 To run tests:
 
 ```bash
-bun wiptest
+bun test
 ```
 
 
